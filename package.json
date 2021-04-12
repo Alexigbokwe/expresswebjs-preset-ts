@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ExpressWebJs-Community/expresswebjs-preset-ts"
+    "url": "git+https://github.com/Alexigbokwe/expresswebjs-preset-ts"
   },
   "keywords": [
     "typescript",
@@ -21,9 +21,9 @@
   "author": "Alex Igbokwe,ExpressWebJs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ExpressWebJs-Community/expresswebjs-preset-ts/issues"
+    "url": "https://github.com/Alexigbokwe/expresswebjs-preset-ts/issues"
   },
-  "homepage": "https://github.com/ExpressWebJs-Community/expresswebjs-preset-ts#readme",
+  "homepage": "https://github.com/Alexigbokwe/expresswebjs-preset-ts#readme",
   "devDependencies": {
     "np": "^7.4.0"
   }
