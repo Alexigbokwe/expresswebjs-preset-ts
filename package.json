@@ -1,0 +1,30 @@
+{
+  "name": "expresswebjs-preset-ts",
+  "version": "1.0.0",
+  "description": "Preset files to be extended by tsconfig",
+  "files": [
+    "tsconfig.json",
+    "README.md"
+  ],
+  "scripts": {
+    "release": "np"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExpressWebJs-Community/expresswebjs-preset-ts"
+  },
+  "keywords": [
+    "typescript",
+    "tslint",
+    "expresswebjs"
+  ],
+  "author": "Alex Igbokwe,ExpressWebJs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ExpressWebJs-Community/expresswebjs-preset-ts/issues"
+  },
+  "homepage": "https://github.com/ExpressWebJs-Community/expresswebjs-preset-ts#readme",
+  "devDependencies": {
+    "np": "^7.4.0"
+  }
+}
