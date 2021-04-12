@@ -2,19 +2,13 @@
   "compilerOptions": {
     "target": "es6",
     "module": "commonjs",
-    "declaration": true,  
-    "outDir": "../../build",  
-    "rootDir": "../../",              
+    "declaration": true,      
     "importHelpers": true,  
     "strict": true,    
-    "moduleResolution": "node", 
-    "baseUrl": "../../",                                                    
+    "moduleResolution": "node",                                                    
     "esModuleInterop": true,                
     "skipLibCheck": true,   
     "forceConsistentCasingInFileNames": true,
     "suppressImplicitAnyIndexErrors": true,
-    "paths": {
-      "Elucidate/*":["./node_modules/expresswebcorets/lib/*"],
-    }
   }
 }
