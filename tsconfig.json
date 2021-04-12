@@ -12,6 +12,9 @@
     "esModuleInterop": true,                
     "skipLibCheck": true,   
     "forceConsistentCasingInFileNames": true,
-    "suppressImplicitAnyIndexErrors": true
+    "suppressImplicitAnyIndexErrors": true,
+    "paths": {
+      "Elucidate/*":["./node_modules/expresswebcorets/lib/*"],
+    }
   }
 }
