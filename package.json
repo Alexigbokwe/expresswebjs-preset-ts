@@ -1,6 +1,6 @@
 {
   "name": "expresswebjs-preset-ts",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Preset files to be extended by tsconfig",
   "files": [
     "tsconfig.json",
